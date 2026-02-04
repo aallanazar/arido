@@ -1,0 +1,5 @@
+{
+  "name": "Arido",
+  "description": "An AI-powered image editing tool to transform historical scenes using Gemini 2.5.",
+  "requestFramePermissions": []
+}

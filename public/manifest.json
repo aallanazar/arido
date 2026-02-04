@@ -1,0 +1,22 @@
+{
+  "name": "Kreativ Studio",
+  "short_name": "KreativApp",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f6f7f9",
+  "theme_color": "#f6f7f9",
+  "description": "Historische Bildbearbeitung, Word Processor und Kreativ-Tools.",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2919/2919600.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2919/2919600.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
